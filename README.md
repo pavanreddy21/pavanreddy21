@@ -6,7 +6,9 @@
 
 💞️ I'm looking to collaborate with like-minded individuals or organizations that share my passion for creating high-quality software solutions.
 
-📫 You can reach me via email at pavan_reddy.gottimukkula@okstate.edu. Let's connect and bring your projects to life!
+📫 You can reach me via email at pavanreddygottimukkula@gmail.com . Let's connect and bring your projects to life!
+
+My Portfolio: https://pavanreddy21.vercel.app/
 
 <!---
 pavanreddy21/pavanreddy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
